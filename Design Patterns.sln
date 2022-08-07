@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singletone DP", "Singletone
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Game_Observer", "Observer DP\Game_Observer.csproj", "{78EF86AC-929E-4619-B7F1-D7F6FA191B79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory DP", "AbstractFactory DP\AbstractFactory DP.csproj", "{7E39F0D1-A334-4BA7-BF8E-DA24EF1AB625}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{78EF86AC-929E-4619-B7F1-D7F6FA191B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78EF86AC-929E-4619-B7F1-D7F6FA191B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78EF86AC-929E-4619-B7F1-D7F6FA191B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E39F0D1-A334-4BA7-BF8E-DA24EF1AB625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E39F0D1-A334-4BA7-BF8E-DA24EF1AB625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E39F0D1-A334-4BA7-BF8E-DA24EF1AB625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E39F0D1-A334-4BA7-BF8E-DA24EF1AB625}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
