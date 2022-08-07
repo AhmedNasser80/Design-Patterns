@@ -1,0 +1,16 @@
+E:\Route\Cycle 35\Design Patterns\Demos\Design Patterns\Startegy DP\bin\Debug\net5.0\Startegy DP.exe
+E:\Route\Cycle 35\Design Patterns\Demos\Design Patterns\Startegy DP\bin\Debug\net5.0\Startegy DP.deps.json
+E:\Route\Cycle 35\Design Patterns\Demos\Design Patterns\Startegy DP\bin\Debug\net5.0\Startegy DP.runtimeconfig.json
+E:\Route\Cycle 35\Design Patterns\Demos\Design Patterns\Startegy DP\bin\Debug\net5.0\Startegy DP.runtimeconfig.dev.json
+E:\Route\Cycle 35\Design Patterns\Demos\Design Patterns\Startegy DP\bin\Debug\net5.0\Startegy DP.dll
+E:\Route\Cycle 35\Design Patterns\Demos\Design Patterns\Startegy DP\bin\Debug\net5.0\ref\Startegy DP.dll
+E:\Route\Cycle 35\Design Patterns\Demos\Design Patterns\Startegy DP\bin\Debug\net5.0\Startegy DP.pdb
+E:\Route\Cycle 35\Design Patterns\Demos\Design Patterns\Startegy DP\obj\Debug\net5.0\Startegy DP.csprojAssemblyReference.cache
+E:\Route\Cycle 35\Design Patterns\Demos\Design Patterns\Startegy DP\obj\Debug\net5.0\Startegy DP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Cycle 35\Design Patterns\Demos\Design Patterns\Startegy DP\obj\Debug\net5.0\Startegy DP.AssemblyInfoInputs.cache
+E:\Route\Cycle 35\Design Patterns\Demos\Design Patterns\Startegy DP\obj\Debug\net5.0\Startegy DP.AssemblyInfo.cs
+E:\Route\Cycle 35\Design Patterns\Demos\Design Patterns\Startegy DP\obj\Debug\net5.0\Startegy DP.csproj.CoreCompileInputs.cache
+E:\Route\Cycle 35\Design Patterns\Demos\Design Patterns\Startegy DP\obj\Debug\net5.0\Startegy DP.dll
+E:\Route\Cycle 35\Design Patterns\Demos\Design Patterns\Startegy DP\obj\Debug\net5.0\ref\Startegy DP.dll
+E:\Route\Cycle 35\Design Patterns\Demos\Design Patterns\Startegy DP\obj\Debug\net5.0\Startegy DP.pdb
+E:\Route\Cycle 35\Design Patterns\Demos\Design Patterns\Startegy DP\obj\Debug\net5.0\Startegy DP.genruntimeconfig.cache

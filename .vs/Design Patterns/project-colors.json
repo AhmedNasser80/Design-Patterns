@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f39f732b-5d68-4620-afe8-ac92d39d540d": {
+      "ProjectGuid": "f39f732b-5d68-4620-afe8-ac92d39d540d",
+      "DisplayName": "Singletone DP",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
