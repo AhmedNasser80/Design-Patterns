@@ -1,0 +1,12 @@
+E:\Design Pattern\Day 01\Game\Observer\bin\Debug\netcoreapp3.1\Game_Observer.exe
+E:\Design Pattern\Day 01\Game\Observer\bin\Debug\netcoreapp3.1\Game_Observer.deps.json
+E:\Design Pattern\Day 01\Game\Observer\bin\Debug\netcoreapp3.1\Game_Observer.runtimeconfig.json
+E:\Design Pattern\Day 01\Game\Observer\bin\Debug\netcoreapp3.1\Game_Observer.runtimeconfig.dev.json
+E:\Design Pattern\Day 01\Game\Observer\bin\Debug\netcoreapp3.1\Game_Observer.dll
+E:\Design Pattern\Day 01\Game\Observer\bin\Debug\netcoreapp3.1\Game_Observer.pdb
+E:\Design Pattern\Day 01\Game\Observer\obj\Debug\netcoreapp3.1\Game_Observer.AssemblyInfoInputs.cache
+E:\Design Pattern\Day 01\Game\Observer\obj\Debug\netcoreapp3.1\Game_Observer.AssemblyInfo.cs
+E:\Design Pattern\Day 01\Game\Observer\obj\Debug\netcoreapp3.1\Game_Observer.csproj.CoreCompileInputs.cache
+E:\Design Pattern\Day 01\Game\Observer\obj\Debug\netcoreapp3.1\Game_Observer.dll
+E:\Design Pattern\Day 01\Game\Observer\obj\Debug\netcoreapp3.1\Game_Observer.pdb
+E:\Design Pattern\Day 01\Game\Observer\obj\Debug\netcoreapp3.1\Game_Observer.genruntimeconfig.cache
