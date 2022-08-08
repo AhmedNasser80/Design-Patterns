@@ -1,0 +1,16 @@
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Prototype DP\bin\Debug\net5.0\Prototype DP.exe
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Prototype DP\bin\Debug\net5.0\Prototype DP.deps.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Prototype DP\bin\Debug\net5.0\Prototype DP.runtimeconfig.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Prototype DP\bin\Debug\net5.0\Prototype DP.runtimeconfig.dev.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Prototype DP\bin\Debug\net5.0\Prototype DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Prototype DP\bin\Debug\net5.0\Prototype DP.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Prototype DP\obj\Debug\net5.0\Prototype DP.csproj.AssemblyReference.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Prototype DP\obj\Debug\net5.0\Prototype DP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Prototype DP\obj\Debug\net5.0\Prototype DP.AssemblyInfoInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Prototype DP\obj\Debug\net5.0\Prototype DP.AssemblyInfo.cs
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Prototype DP\obj\Debug\net5.0\Prototype DP.csproj.CoreCompileInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Prototype DP\obj\Debug\net5.0\Prototype DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Prototype DP\obj\Debug\net5.0\refint\Prototype DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Prototype DP\obj\Debug\net5.0\Prototype DP.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Prototype DP\obj\Debug\net5.0\Prototype DP.genruntimeconfig.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Prototype DP\obj\Debug\net5.0\ref\Prototype DP.dll
