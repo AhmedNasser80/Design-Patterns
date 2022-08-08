@@ -1,0 +1,17 @@
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Decorator DP\bin\Debug\net5.0\Decorator DP.exe
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Decorator DP\bin\Debug\net5.0\Decorator DP.dll.config
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Decorator DP\bin\Debug\net5.0\Decorator DP.deps.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Decorator DP\bin\Debug\net5.0\Decorator DP.runtimeconfig.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Decorator DP\bin\Debug\net5.0\Decorator DP.runtimeconfig.dev.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Decorator DP\bin\Debug\net5.0\Decorator DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Decorator DP\bin\Debug\net5.0\Decorator DP.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Decorator DP\obj\Debug\net5.0\Decorator DP.csproj.AssemblyReference.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Decorator DP\obj\Debug\net5.0\Decorator DP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Decorator DP\obj\Debug\net5.0\Decorator DP.AssemblyInfoInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Decorator DP\obj\Debug\net5.0\Decorator DP.AssemblyInfo.cs
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Decorator DP\obj\Debug\net5.0\Decorator DP.csproj.CoreCompileInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Decorator DP\obj\Debug\net5.0\Decorator DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Decorator DP\obj\Debug\net5.0\refint\Decorator DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Decorator DP\obj\Debug\net5.0\Decorator DP.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Decorator DP\obj\Debug\net5.0\Decorator DP.genruntimeconfig.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Decorator DP\obj\Debug\net5.0\ref\Decorator DP.dll

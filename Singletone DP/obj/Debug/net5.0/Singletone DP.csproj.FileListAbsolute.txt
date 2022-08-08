@@ -1,0 +1,16 @@
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Singletone DP\bin\Debug\net5.0\Singletone DP.exe
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Singletone DP\bin\Debug\net5.0\Singletone DP.deps.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Singletone DP\bin\Debug\net5.0\Singletone DP.runtimeconfig.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Singletone DP\bin\Debug\net5.0\Singletone DP.runtimeconfig.dev.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Singletone DP\bin\Debug\net5.0\Singletone DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Singletone DP\bin\Debug\net5.0\Singletone DP.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Singletone DP\obj\Debug\net5.0\Singletone DP.csproj.AssemblyReference.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Singletone DP\obj\Debug\net5.0\Singletone DP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Singletone DP\obj\Debug\net5.0\Singletone DP.AssemblyInfoInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Singletone DP\obj\Debug\net5.0\Singletone DP.AssemblyInfo.cs
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Singletone DP\obj\Debug\net5.0\Singletone DP.csproj.CoreCompileInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Singletone DP\obj\Debug\net5.0\Singletone DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Singletone DP\obj\Debug\net5.0\refint\Singletone DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Singletone DP\obj\Debug\net5.0\Singletone DP.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Singletone DP\obj\Debug\net5.0\Singletone DP.genruntimeconfig.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Singletone DP\obj\Debug\net5.0\ref\Singletone DP.dll
