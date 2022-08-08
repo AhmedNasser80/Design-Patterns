@@ -1,0 +1,16 @@
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Builder DP\bin\Debug\net5.0\Builder DP.exe
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Builder DP\bin\Debug\net5.0\Builder DP.deps.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Builder DP\bin\Debug\net5.0\Builder DP.runtimeconfig.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Builder DP\bin\Debug\net5.0\Builder DP.runtimeconfig.dev.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Builder DP\bin\Debug\net5.0\Builder DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Builder DP\bin\Debug\net5.0\Builder DP.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Builder DP\obj\Debug\net5.0\Builder DP.csproj.AssemblyReference.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Builder DP\obj\Debug\net5.0\Builder DP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Builder DP\obj\Debug\net5.0\Builder DP.AssemblyInfoInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Builder DP\obj\Debug\net5.0\Builder DP.AssemblyInfo.cs
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Builder DP\obj\Debug\net5.0\Builder DP.csproj.CoreCompileInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Builder DP\obj\Debug\net5.0\Builder DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Builder DP\obj\Debug\net5.0\refint\Builder DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Builder DP\obj\Debug\net5.0\Builder DP.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Builder DP\obj\Debug\net5.0\Builder DP.genruntimeconfig.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Builder DP\obj\Debug\net5.0\ref\Builder DP.dll
