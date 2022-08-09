@@ -1,0 +1,15 @@
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Template DP\bin\Debug\net6.0\Template DP.exe
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Template DP\bin\Debug\net6.0\Template DP.deps.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Template DP\bin\Debug\net6.0\Template DP.runtimeconfig.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Template DP\bin\Debug\net6.0\Template DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Template DP\bin\Debug\net6.0\Template DP.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Template DP\obj\Debug\net6.0\Template DP.csproj.AssemblyReference.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Template DP\obj\Debug\net6.0\Template DP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Template DP\obj\Debug\net6.0\Template DP.AssemblyInfoInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Template DP\obj\Debug\net6.0\Template DP.AssemblyInfo.cs
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Template DP\obj\Debug\net6.0\Template DP.csproj.CoreCompileInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Template DP\obj\Debug\net6.0\Template DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Template DP\obj\Debug\net6.0\refint\Template DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Template DP\obj\Debug\net6.0\Template DP.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Template DP\obj\Debug\net6.0\Template DP.genruntimeconfig.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Template DP\obj\Debug\net6.0\ref\Template DP.dll
