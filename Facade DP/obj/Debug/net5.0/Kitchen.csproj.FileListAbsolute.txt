@@ -1,0 +1,12 @@
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Facade DP\bin\Debug\net5.0\Kitchen.deps.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Facade DP\bin\Debug\net5.0\Kitchen.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Facade DP\bin\Debug\net5.0\Kitchen.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Facade DP\obj\Debug\net5.0\Kitchen.csproj.AssemblyReference.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Facade DP\obj\Debug\net5.0\Kitchen.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Facade DP\obj\Debug\net5.0\Kitchen.AssemblyInfoInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Facade DP\obj\Debug\net5.0\Kitchen.AssemblyInfo.cs
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Facade DP\obj\Debug\net5.0\Kitchen.csproj.CoreCompileInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Facade DP\obj\Debug\net5.0\Kitchen.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Facade DP\obj\Debug\net5.0\refint\Kitchen.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Facade DP\obj\Debug\net5.0\Kitchen.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Facade DP\obj\Debug\net5.0\ref\Kitchen.dll

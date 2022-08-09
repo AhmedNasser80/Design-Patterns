@@ -10,3 +10,17 @@ E:\Design Pattern\Day 01\Game\Observer\obj\Debug\netcoreapp3.1\Game_Observer.csp
 E:\Design Pattern\Day 01\Game\Observer\obj\Debug\netcoreapp3.1\Game_Observer.dll
 E:\Design Pattern\Day 01\Game\Observer\obj\Debug\netcoreapp3.1\Game_Observer.pdb
 E:\Design Pattern\Day 01\Game\Observer\obj\Debug\netcoreapp3.1\Game_Observer.genruntimeconfig.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Observer DP\bin\Debug\netcoreapp3.1\Game_Observer.exe
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Observer DP\bin\Debug\netcoreapp3.1\Game_Observer.deps.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Observer DP\bin\Debug\netcoreapp3.1\Game_Observer.runtimeconfig.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Observer DP\bin\Debug\netcoreapp3.1\Game_Observer.runtimeconfig.dev.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Observer DP\bin\Debug\netcoreapp3.1\Game_Observer.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Observer DP\bin\Debug\netcoreapp3.1\Game_Observer.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Observer DP\obj\Debug\netcoreapp3.1\Game_Observer.csproj.AssemblyReference.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Observer DP\obj\Debug\netcoreapp3.1\Game_Observer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Observer DP\obj\Debug\netcoreapp3.1\Game_Observer.AssemblyInfoInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Observer DP\obj\Debug\netcoreapp3.1\Game_Observer.AssemblyInfo.cs
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Observer DP\obj\Debug\netcoreapp3.1\Game_Observer.csproj.CoreCompileInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Observer DP\obj\Debug\netcoreapp3.1\Game_Observer.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Observer DP\obj\Debug\netcoreapp3.1\Game_Observer.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Observer DP\obj\Debug\netcoreapp3.1\Game_Observer.genruntimeconfig.cache

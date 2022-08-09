@@ -1,0 +1,15 @@
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Iterator DP\bin\Debug\net6.0\Iterator.Demo.exe
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Iterator DP\bin\Debug\net6.0\Iterator.Demo.deps.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Iterator DP\bin\Debug\net6.0\Iterator.Demo.runtimeconfig.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Iterator DP\bin\Debug\net6.0\Iterator.Demo.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Iterator DP\bin\Debug\net6.0\Iterator.Demo.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Iterator DP\obj\Debug\net6.0\Iterator.Demo.csproj.AssemblyReference.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Iterator DP\obj\Debug\net6.0\Iterator.Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Iterator DP\obj\Debug\net6.0\Iterator.Demo.AssemblyInfoInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Iterator DP\obj\Debug\net6.0\Iterator.Demo.AssemblyInfo.cs
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Iterator DP\obj\Debug\net6.0\Iterator.Demo.csproj.CoreCompileInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Iterator DP\obj\Debug\net6.0\Iterator.Demo.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Iterator DP\obj\Debug\net6.0\refint\Iterator.Demo.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Iterator DP\obj\Debug\net6.0\Iterator.Demo.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Iterator DP\obj\Debug\net6.0\Iterator.Demo.genruntimeconfig.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Iterator DP\obj\Debug\net6.0\ref\Iterator.Demo.dll

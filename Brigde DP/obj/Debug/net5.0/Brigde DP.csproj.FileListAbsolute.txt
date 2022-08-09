@@ -1,0 +1,16 @@
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Brigde DP\bin\Debug\net5.0\Brigde DP.exe
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Brigde DP\bin\Debug\net5.0\Brigde DP.deps.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Brigde DP\bin\Debug\net5.0\Brigde DP.runtimeconfig.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Brigde DP\bin\Debug\net5.0\Brigde DP.runtimeconfig.dev.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Brigde DP\bin\Debug\net5.0\Brigde DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Brigde DP\bin\Debug\net5.0\Brigde DP.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Brigde DP\obj\Debug\net5.0\Brigde DP.csproj.AssemblyReference.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Brigde DP\obj\Debug\net5.0\Brigde DP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Brigde DP\obj\Debug\net5.0\Brigde DP.AssemblyInfoInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Brigde DP\obj\Debug\net5.0\Brigde DP.AssemblyInfo.cs
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Brigde DP\obj\Debug\net5.0\Brigde DP.csproj.CoreCompileInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Brigde DP\obj\Debug\net5.0\Brigde DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Brigde DP\obj\Debug\net5.0\refint\Brigde DP.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Brigde DP\obj\Debug\net5.0\Brigde DP.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Brigde DP\obj\Debug\net5.0\Brigde DP.genruntimeconfig.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Brigde DP\obj\Debug\net5.0\ref\Brigde DP.dll

@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Adapter.business_logic
+namespace Adapter_DP.business_logic
 {
     public interface IUserNotificationService
     {

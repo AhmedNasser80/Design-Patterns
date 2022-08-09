@@ -1,0 +1,5 @@
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Adapter DP\obj\Debug\net5.0\Adapter DP.csproj.AssemblyReference.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Adapter DP\obj\Debug\net5.0\Adapter DP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Adapter DP\obj\Debug\net5.0\Adapter DP.AssemblyInfoInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Adapter DP\obj\Debug\net5.0\Adapter DP.AssemblyInfo.cs
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Adapter DP\obj\Debug\net5.0\Adapter DP.csproj.CoreCompileInputs.cache

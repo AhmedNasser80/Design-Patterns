@@ -1,9 +1,9 @@
-﻿using Adapter.business_logic;
+﻿using Adapter_DP.business_logic;
 using SendGrid;
 using SendGrid.Helpers.Mail;
 using System.Threading.Tasks;
 
-namespace Adapter
+namespace Adapter_DP
 {
     public class ObjectAdapter : IUserNotificationService
     {
