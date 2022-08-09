@@ -1,0 +1,15 @@
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Composite DP\bin\Debug\net6.0\CompositePattern.Demo.exe
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Composite DP\bin\Debug\net6.0\CompositePattern.Demo.deps.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Composite DP\bin\Debug\net6.0\CompositePattern.Demo.runtimeconfig.json
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Composite DP\bin\Debug\net6.0\CompositePattern.Demo.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Composite DP\bin\Debug\net6.0\CompositePattern.Demo.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Composite DP\obj\Debug\net6.0\CompositePattern.Demo.csproj.AssemblyReference.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Composite DP\obj\Debug\net6.0\CompositePattern.Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Composite DP\obj\Debug\net6.0\CompositePattern.Demo.AssemblyInfoInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Composite DP\obj\Debug\net6.0\CompositePattern.Demo.AssemblyInfo.cs
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Composite DP\obj\Debug\net6.0\CompositePattern.Demo.csproj.CoreCompileInputs.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Composite DP\obj\Debug\net6.0\CompositePattern.Demo.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Composite DP\obj\Debug\net6.0\refint\CompositePattern.Demo.dll
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Composite DP\obj\Debug\net6.0\CompositePattern.Demo.pdb
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Composite DP\obj\Debug\net6.0\CompositePattern.Demo.genruntimeconfig.cache
+E:\Courses\FullStack Course\BackEnd\Design Patterns\Design Patterns\Composite DP\obj\Debug\net6.0\ref\CompositePattern.Demo.dll
