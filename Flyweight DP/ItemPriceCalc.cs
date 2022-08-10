@@ -1,6 +1,6 @@
 using System;
 
-namespace DesignPatterns
+namespace Flyweight_DP
 {
     public class ItemsDiscountCalc:IDiscountCalaculator
     {

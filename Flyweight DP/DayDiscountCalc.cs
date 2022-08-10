@@ -1,6 +1,7 @@
+
 using System;
 
-namespace DesignPatterns
+namespace Flyweight_DP
 {
     public class DayDiscountCalc:IDiscountCalaculator
     {

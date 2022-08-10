@@ -1,5 +1,5 @@
 
-namespace DesignPatterns.StructuralPatterns
+namespace Proxy_DP
 {
     public class ConcereteSMSService : SMSService
     {

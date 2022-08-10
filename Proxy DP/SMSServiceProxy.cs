@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace DesignPatterns.StructuralPatterns
+namespace Proxy_DP
 {
     public class SMSServiceProxy 
     {
